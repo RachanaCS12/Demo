@@ -1,1 +1,2 @@
-system.debug('Welcome to git');
+int number =10;
+system.debug('Welcome to git'+number);
